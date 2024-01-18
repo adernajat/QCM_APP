@@ -15,12 +15,12 @@ This is a web-based quiz application made with React.js and Node.js. It offers u
 
 ## Features
 
-- User Authentication: Login and Register.
-- Home Page: Displays all available quizzes :
-  - Teachers : add a new quiz, edit a quiz, delete a quiz.
-  - Students : Enter a quiz.
-- Quiz Page: Displays the quiz questions and options.
-- Add Quiz: Allows teachers to add their own quizzes.
+User identification: Login and register.
+- Home page: Shows all existing quizzes:
+  - Teachers: add a new quiz, modify a quiz, delete a quiz.
+  - Students: Take a quiz.
+- Quiz page: View quiz questions and options.
+- Add quiz: Enables teachers to add their own quizzes.
 
 ## Getting Started
 
