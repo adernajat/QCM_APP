@@ -1,0 +1,66 @@
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('/public/assets/Back.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.RegisterFrom {
+  background-color: #fff;
+  padding: 1.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.5rem;
+  margin: 1rem;
+  max-width: 400px; 
+  width: 100%; 
+}
+
+
+.container2 {
+  text-align: center;
+}
+
+.div-3 {
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+}
+
+.email,
+.pass {
+  color: #a7a3ff;
+  border-radius: 8px;
+  background-color: #f0efff;
+  margin: 1vh 0; 
+  padding: 15px; 
+  font-family: 'Poppins', sans-serif;
+  border: none;
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.login {
+  color: #fff;
+  border-radius: 9px;
+  box-shadow: #1000f3;
+  background-color: #1000f3;
+  margin-top: 2vh;
+  width: 20vh;
+  padding: 15px;
+  font: 500 16px 'Poppins', sans-serif;
+  border: none;
+  cursor: pointer;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+  margin-top: 1rem; 
+}
